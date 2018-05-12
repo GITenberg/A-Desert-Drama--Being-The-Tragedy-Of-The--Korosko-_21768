@@ -26,6 +26,8 @@ creator:
 description: "The Tragedy of the Korosko (1898) is a novel by Sir Arthur Conan Doyle.\
   \ It was serialized a year earlier in The Strand magazine between May and December\
   \ 1897, and was later turned into a play Fires of Fate.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21768#A-Desert-Drama--Being-The-Tragedy-Of-The--Korosko-
 gutenberg_issued: '2007-06-08'
 gutenberg_type: Text
 identifiers:
